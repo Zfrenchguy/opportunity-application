@@ -14,7 +14,7 @@ import com.cgi.myapp.security.AuthoritiesConstants;
 import com.cgi.myapp.service.UserService;
 import com.cgi.myapp.service.dto.AdminUserDTO;
 import com.cgi.myapp.service.dto.PasswordChangeDTO;
-import com.cgi.myapp.service.dto.UserDTO;
+//import com.cgi.myapp.service.dto.UserDTO;
 import com.cgi.myapp.web.rest.vm.KeyAndPasswordVM;
 import com.cgi.myapp.web.rest.vm.ManagedUserVM;
 import java.time.Instant;

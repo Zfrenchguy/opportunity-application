@@ -2,7 +2,7 @@ package com.cgi.myapp.web.rest;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.hamcrest.Matchers.hasItem;
-import static org.hamcrest.Matchers.hasItems;
+//import static org.hamcrest.Matchers.hasItems;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
@@ -12,7 +12,7 @@ import com.cgi.myapp.domain.User;
 import com.cgi.myapp.repository.UserRepository;
 import com.cgi.myapp.security.AuthoritiesConstants;
 import com.cgi.myapp.service.dto.AdminUserDTO;
-import com.cgi.myapp.service.dto.UserDTO;
+//import com.cgi.myapp.service.dto.UserDTO;
 import com.cgi.myapp.service.mapper.UserMapper;
 import com.cgi.myapp.web.rest.vm.ManagedUserVM;
 import java.time.Instant;

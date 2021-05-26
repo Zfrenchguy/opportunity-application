@@ -1,6 +1,6 @@
 package com.cgi.myapp;
 
-import com.cgi.myapp.OpportunityApp;
+//import com.cgi.myapp.OpportunityApp;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
