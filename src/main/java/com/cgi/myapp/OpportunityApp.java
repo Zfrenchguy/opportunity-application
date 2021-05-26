@@ -28,6 +28,7 @@ public class OpportunityApp {
 
     public OpportunityApp(Environment env) {
         this.env = env;
+        // blabla test commentaire.
     }
 
     /**
