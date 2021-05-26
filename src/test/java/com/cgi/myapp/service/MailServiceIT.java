@@ -241,5 +241,6 @@ class MailServiceIT {
             javaLangKey = matcher3.group(1) + "_" + matcher3.group(2) + "_" + matcher3.group(3).toUpperCase();
         }
         return javaLangKey;
+        //test commit
     }
 }
